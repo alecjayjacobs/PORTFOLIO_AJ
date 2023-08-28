@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-headshot: /assets/img/headshot.webp
+headshot: C:\Users\alecj\Desktop
 permalink: /about
 ---
 
