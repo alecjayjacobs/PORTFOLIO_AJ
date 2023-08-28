@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-headshot: C:\Users\alecj\Desktop
+headshot: C:/Users/alecj/Desktop
 permalink: /about
 ---
 
